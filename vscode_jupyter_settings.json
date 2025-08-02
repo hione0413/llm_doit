@@ -1,0 +1,10 @@
+{
+  "notebook.output.wordWrap": true,
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "notebook.output.textLineLimit": 100,
+  "notebook.output.scrolling": "visible",
+  "notebook.output.textOutputLineLimit": 100
+} 

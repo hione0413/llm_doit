@@ -1,0 +1,8 @@
+{
+  "notebook.output.wordWrap": true,
+  "notebook.output.textLineLimit": 100,
+  "notebook.output.scrolling": "visible",
+  "notebook.output.textOutputLineLimit": 100,
+  "python.defaultInterpreterPath": "./venv/Scripts/python.exe",
+  "jupyter.askForKernelRestart": false
+} 
